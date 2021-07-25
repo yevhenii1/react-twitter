@@ -1,0 +1,69 @@
+{
+  "tweets": [
+    {
+      "id": 1,
+      "_id": "5f625ff6bd97609c15525e2b4",
+      "text": "Test tweet",
+      "user": {
+        "fullname": "Test User",
+        "username": "test",
+        "avatarUrl": "https://source.unsplash.com/random/100x100?5"
+      }
+    },
+    {
+      "_id": "fl2v7ftl2ah",
+      "text": "rrrrrrrrrrrrrrrrr",
+      "user": {
+        "fullname": "Test User",
+        "username": "test",
+        "avatarUrl": "https://source.unsplash.com/random/100x100?5"
+      },
+      "id": 2
+    }
+  ],
+  "tags": [
+    {
+      "_id": "5f625ff106bc4fd2a1e7bf710",
+      "name": "#HandOffRussianHistory",
+      "count": 12175
+    },
+    {
+      "_id": "5f625ff206bc4fda21e7bf710",
+      "name": "Навального",
+      "count": 442
+    },
+    {
+      "_id": "5f625ff406bc45f2da1e7bf710",
+      "name": "гитлер",
+      "count": 51321
+    },
+    {
+      "_id": "5f625f1f606b1c4fda1e7bf710",
+      "name": "Беларусь",
+      "count": 812812
+    }
+  ],
+  "users": [
+    {
+      "fullname": "Dickerson Mcleod",
+      "username": "kirk",
+      "avatarUrl": "https://source.unsplash.com/random/100x100?3"
+    },
+    {
+      "fullname": "Hewitt Nelson",
+      "username": "matthews",
+      "avatarUrl": "https://source.unsplash.com/random/100x100?5"
+    },
+    {
+      "fullname": "Sloan Fowler",
+      "username": "carr",
+      "avatarUrl": "https://source.unsplash.com/random/100x100?3"
+    }
+  ],
+  "user": {
+    "_id": "5f625ff606bc4fda1e7bf710",
+    "fullname": "Archakov Dennis",
+    "username": "archakov06",
+    "avatarUrl": "https://pbs.twimg.com/profile_images/796061890451542016/J-O1AguD_normal.jpg"
+  }
+}

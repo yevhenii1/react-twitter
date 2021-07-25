@@ -1,5 +1,5 @@
 import React from 'react'
-import { makeStyles, createStyles } from '@material-ui/core/styles';
+import { makeStyles } from '@material-ui/core/styles';
 import { Typography, Button } from '@material-ui/core';
 import TwitterIcon from '@material-ui/icons/Twitter';
 import SearchIcon from '@material-ui/icons/Search';
@@ -147,7 +147,7 @@ export const SignIn: React.FC = (): React.ReactElement => {
             Войти
           </Button>
           <LoginModal open={visibleModal === 'signIn'} onClose={handleCloseModal} />
-            <RegisterModal open={visibleModal === 'signUp'} onClose={handleCloseModal} />
+          <RegisterModal open={visibleModal === 'signUp'} onClose={handleCloseModal} />
         </div>
       </section>
     </div>
